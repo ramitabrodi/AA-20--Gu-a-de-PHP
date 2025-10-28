@@ -1,0 +1,13 @@
+Nombre: ramiro rivero
+Dirección: tambor tacuari 765100816
+Pizzas pedidas:
+- Jamón y Queso: 3
+- Napolitana: 4
+------------------------------
+Nombre: Ramiro Rivero
+Dirección: tucuman 2321423
+Pizzas pedidas:
+- Jamón y Queso: 6
+- Napolitana: 5
+- Muzzarella: 12
+------------------------------

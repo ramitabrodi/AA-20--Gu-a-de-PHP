@@ -6,8 +6,8 @@
 </head>
 <body>
 <?php
-$int = 10;
-$double = 10.5;
+$int = 30;
+$double = 36.5;
 $string = "String";
 $boolean = true;
 echo "<p>Variable Int: $int</p>";
